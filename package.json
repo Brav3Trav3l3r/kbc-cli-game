@@ -18,7 +18,10 @@
     "axios": "^0.21.1",
     "boxen": "^7.1.0",
     "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
     "commander": "^10.0.1",
+    "figlet": "^1.6.0",
+    "nanospinner": "^1.1.0",
     "yargs": "^17.7.2"
   }
 }
